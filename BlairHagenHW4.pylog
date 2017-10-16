@@ -1,0 +1,146 @@
+<file_created time="Sat Jan 30 12:41:44 EST 2016">
+<menu_button time="Sat Jan 30 12:58:18 EST 2016">Save Program</menu_button>
+<file_saved time="Sat Jan 30 12:59:31 EST 2016">D:\Onedrive\Union Documents\Creative Computing\BlairHagenHW4.py</file_saved>
+<file_opened time="Sat Jan 30 13:00:03 EST 2016">D:\Onedrive\Union Documents\Creative Computing\BlairHagenHW4.py</file_opened>
+<menu_button time="Sat Jan 30 13:03:31 EST 2016">Save Program</menu_button>
+<file_saved time="Sat Jan 30 13:03:31 EST 2016">D:\Onedrive\Union Documents\Creative Computing\BlairHagenHW4.py</file_saved>
+</file_created>
+<menu_button time="Sat Jan 30 13:03:33 EST 2016">Load Program</menu_button>
+<menu_button time="Sat Jan 30 13:03:36 EST 2016">Save Program</menu_button>
+<file_saved time="Sat Jan 30 13:03:36 EST 2016">D:\Onedrive\Union Documents\Creative Computing\BlairHagenHW4.py</file_saved>
+</file_created>
+<menu_button time="Sat Jan 30 13:03:37 EST 2016">Load Program</menu_button>
+<menu_button time="Sat Jan 30 13:03:41 EST 2016">Save Program</menu_button>
+<file_saved time="Sat Jan 30 13:03:41 EST 2016">D:\Onedrive\Union Documents\Creative Computing\BlairHagenHW4.py</file_saved>
+</file_created>
+<menu_button time="Sat Jan 30 13:03:42 EST 2016">Load Program</menu_button>
+<command_run time="Sat Jan 30 13:03:53 EST 2016">source = makePicture(pickAFile())></command_run>
+<command_run time="Sat Jan 30 13:04:33 EST 2016">target = makePicture(pickAFile())></command_run>
+<command_run time="Sat Jan 30 13:04:46 EST 2016">copyPicture(source, target, 100, 100)></command_run>
+<menu_button time="Sat Jan 30 13:04:57 EST 2016">Save Program</menu_button>
+<file_saved time="Sat Jan 30 13:04:57 EST 2016">D:\Onedrive\Union Documents\Creative Computing\BlairHagenHW4.py</file_saved>
+</file_created>
+<menu_button time="Sat Jan 30 13:04:57 EST 2016">Load Program</menu_button>
+<command_run time="Sat Jan 30 13:04:58 EST 2016">copyPicture(source, target, 100, 100)></command_run>
+<menu_button time="Sat Jan 30 13:05:54 EST 2016">Save Program</menu_button>
+<file_saved time="Sat Jan 30 13:05:54 EST 2016">D:\Onedrive\Union Documents\Creative Computing\BlairHagenHW4.py</file_saved>
+</file_created>
+<menu_button time="Sat Jan 30 13:05:58 EST 2016">Load Program</menu_button>
+<command_run time="Sat Jan 30 13:06:09 EST 2016">copypic = copyPicture(source, target, 100, 100)></command_run>
+<command_run time="Sat Jan 30 13:06:13 EST 2016">show(copypic)></command_run>
+<menu_button time="Sat Jan 30 13:08:31 EST 2016">Save Program</menu_button>
+<file_saved time="Sat Jan 30 13:08:31 EST 2016">D:\Onedrive\Union Documents\Creative Computing\BlairHagenHW4.py</file_saved>
+</file_created>
+<menu_button time="Sat Jan 30 13:10:43 EST 2016">Save Program</menu_button>
+<file_saved time="Sat Jan 30 13:10:43 EST 2016">D:\Onedrive\Union Documents\Creative Computing\BlairHagenHW4.py</file_saved>
+</file_created>
+<menu_button time="Sat Jan 30 13:10:45 EST 2016">Load Program</menu_button>
+<command_run time="Sat Jan 30 13:11:17 EST 2016">cropPic(source, target, 100, 50, 50, 50, 100, 100)></command_run>
+<menu_button time="Sat Jan 30 13:11:39 EST 2016">Save Program</menu_button>
+<file_saved time="Sat Jan 30 13:11:39 EST 2016">D:\Onedrive\Union Documents\Creative Computing\BlairHagenHW4.py</file_saved>
+</file_created>
+<menu_button time="Sat Jan 30 13:11:39 EST 2016">Load Program</menu_button>
+<command_run time="Sat Jan 30 13:11:40 EST 2016">cropPic(source, target, 100, 50, 50, 50, 100, 100)></command_run>
+<command_run time="Sat Jan 30 13:12:00 EST 2016">source = makePicture(pickAFile())></command_run>
+<command_run time="Sat Jan 30 13:12:10 EST 2016">target = makePicture(pickAFile())></command_run>
+<command_run time="Sat Jan 30 13:12:15 EST 2016">show(source)></command_run>
+<command_run time="Sat Jan 30 13:12:20 EST 2016">show(target)></command_run>
+<command_run time="Sat Jan 30 13:12:25 EST 2016">cropPic(source, target, 100, 50, 50, 50, 100, 100)></command_run>
+<menu_button time="Sat Jan 30 13:16:35 EST 2016">Save Program</menu_button>
+<file_saved time="Sat Jan 30 13:16:35 EST 2016">D:\Onedrive\Union Documents\Creative Computing\BlairHagenHW4.py</file_saved>
+</file_created>
+<menu_button time="Sat Jan 30 13:16:38 EST 2016">Load Program</menu_button>
+<command_run time="Sat Jan 30 13:16:40 EST 2016">cropPic(source, target, 100, 50, 50, 50, 100, 100)></command_run>
+<menu_button time="Sat Jan 30 13:16:48 EST 2016">Save Program</menu_button>
+<file_saved time="Sat Jan 30 13:16:48 EST 2016">D:\Onedrive\Union Documents\Creative Computing\BlairHagenHW4.py</file_saved>
+</file_created>
+<menu_button time="Sat Jan 30 13:17:01 EST 2016">Save Program</menu_button>
+<file_saved time="Sat Jan 30 13:17:01 EST 2016">D:\Onedrive\Union Documents\Creative Computing\BlairHagenHW4.py</file_saved>
+</file_created>
+<menu_button time="Sat Jan 30 13:17:02 EST 2016">Load Program</menu_button>
+<command_run time="Sat Jan 30 13:17:03 EST 2016">cropPic(source, target, 100, 50, 50, 50, 100, 100)></command_run>
+<menu_button time="Sat Jan 30 13:18:06 EST 2016">Explain <click></menu_button>
+<menu_button time="Sat Jan 30 13:18:07 EST 2016">Program Area + Interactions Area</menu_button>
+<menu_button time="Sat Jan 30 13:19:15 EST 2016">Save Program</menu_button>
+<file_saved time="Sat Jan 30 13:19:15 EST 2016">D:\Onedrive\Union Documents\Creative Computing\BlairHagenHW4.py</file_saved>
+</file_created>
+<menu_button time="Sat Jan 30 13:19:16 EST 2016">Load Program</menu_button>
+<command_run time="Sat Jan 30 13:19:17 EST 2016">cropPic(source, target, 100, 50, 50, 50, 100, 100)></command_run>
+<menu_button time="Sat Jan 30 13:19:25 EST 2016">Save Program</menu_button>
+<file_saved time="Sat Jan 30 13:19:25 EST 2016">D:\Onedrive\Union Documents\Creative Computing\BlairHagenHW4.py</file_saved>
+</file_created>
+<menu_button time="Sat Jan 30 13:20:07 EST 2016">Save Program</menu_button>
+<file_saved time="Sat Jan 30 13:20:07 EST 2016">D:\Onedrive\Union Documents\Creative Computing\BlairHagenHW4.py</file_saved>
+</file_created>
+<command_run time="Sat Jan 30 13:20:11 EST 2016">cropPic(source, target, 50, 150, 100, 100, 100, 100)></command_run>
+<menu_button time="Sat Jan 30 13:20:33 EST 2016">Save Program</menu_button>
+<file_saved time="Sat Jan 30 13:20:33 EST 2016">D:\Onedrive\Union Documents\Creative Computing\BlairHagenHW4.py</file_saved>
+</file_created>
+<menu_button time="Sat Jan 30 13:21:04 EST 2016">Save Program</menu_button>
+<file_saved time="Sat Jan 30 13:21:04 EST 2016">D:\Onedrive\Union Documents\Creative Computing\BlairHagenHW4.py</file_saved>
+</file_created>
+<menu_button time="Sat Jan 30 13:21:11 EST 2016">Save Program</menu_button>
+<file_saved time="Sat Jan 30 13:21:11 EST 2016">D:\Onedrive\Union Documents\Creative Computing\BlairHagenHW4.py</file_saved>
+</file_created>
+<command_run time="Sat Jan 30 13:21:30 EST 2016">source = makePicture(pickAFile())></command_run>
+<command_run time="Sat Jan 30 13:21:42 EST 2016">target = makePicture(pickAFile())></command_run>
+<command_run time="Sat Jan 30 13:21:49 EST 2016">explore(source)></command_run>
+<command_run time="Sat Jan 30 13:22:18 EST 2016">copyPicture = copyPicture(source, target, 150, 200)></command_run>
+<command_run time="Sat Jan 30 13:22:23 EST 2016">show(copyPicture)></command_run>
+<menu_button time="Sat Jan 30 13:23:23 EST 2016">writePictureTo</menu_button>
+<command_run time="Sat Jan 30 13:23:42 EST 2016">writePictureTo(writePictureTo(copyPicture, 'D:/Onedrive/Union Documents/Creative Computing/copyPicture.jpg')></command_run>
+<command_run time="Sat Jan 30 13:23:54 EST 2016">writePictureTo(writePictureTo(copyPicture, D:/Onedrive/Union Documents/Creative Computing/copyPicture.jpg)></command_run>
+<command_run time="Sat Jan 30 13:24:27 EST 2016">writePictureTo(copyPic, 'D:/Onedrive/Union Documents/Creative Computing/copyPic.jpg')></command_run>
+<command_run time="Sat Jan 30 13:24:34 EST 2016">writePictureTo(copyPicture, 'D:/Onedrive/Union Documents/Creative Computing/copyPic.jpg')></command_run>
+<command_run time="Sat Jan 30 13:25:02 EST 2016">target = makePicture(pickAFile())></command_run>
+<command_run time="Sat Jan 30 13:25:10 EST 2016">target = makePicture(pickAFile())></command_run>
+<command_run time="Sat Jan 30 13:26:20 EST 2016">explore(target)></command_run>
+<command_run time="Sat Jan 30 13:26:49 EST 2016">copyPicture = copyPic(source, target, 23, 3, 70, 65, 123, 56)></command_run>
+<command_run time="Sat Jan 30 13:26:58 EST 2016">copyPicture = cropPic(source, target, 23, 3, 70, 65, 123, 56)></command_run>
+<menu_button time="Sat Jan 30 13:27:49 EST 2016">Program Area + Interactions Area</menu_button>
+<menu_button time="Sat Jan 30 13:28:57 EST 2016">Save Program</menu_button>
+<file_saved time="Sat Jan 30 13:28:57 EST 2016">D:\Onedrive\Union Documents\Creative Computing\BlairHagenHW4.py</file_saved>
+</file_created>
+<menu_button time="Sat Jan 30 13:28:58 EST 2016">Load Program</menu_button>
+<command_run time="Sat Jan 30 13:29:00 EST 2016">copyPicture = cropPic(source, target, 23, 3, 70, 65, 123, 56)></command_run>
+<menu_button time="Sat Jan 30 13:29:34 EST 2016">Save Program</menu_button>
+<file_saved time="Sat Jan 30 13:29:34 EST 2016">D:\Onedrive\Union Documents\Creative Computing\BlairHagenHW4.py</file_saved>
+</file_created>
+<menu_button time="Sat Jan 30 13:29:36 EST 2016">Load Program</menu_button>
+<menu_button time="Sat Jan 30 13:29:52 EST 2016">Save Program</menu_button>
+<file_saved time="Sat Jan 30 13:29:52 EST 2016">D:\Onedrive\Union Documents\Creative Computing\BlairHagenHW4.py</file_saved>
+</file_created>
+<menu_button time="Sat Jan 30 13:29:52 EST 2016">Load Program</menu_button>
+<menu_button time="Sat Jan 30 13:30:09 EST 2016">Save Program</menu_button>
+<file_saved time="Sat Jan 30 13:30:09 EST 2016">D:\Onedrive\Union Documents\Creative Computing\BlairHagenHW4.py</file_saved>
+</file_created>
+<menu_button time="Sat Jan 30 13:30:10 EST 2016">Load Program</menu_button>
+<menu_button time="Sat Jan 30 13:30:22 EST 2016">Save Program</menu_button>
+<file_saved time="Sat Jan 30 13:30:22 EST 2016">D:\Onedrive\Union Documents\Creative Computing\BlairHagenHW4.py</file_saved>
+</file_created>
+<menu_button time="Sat Jan 30 13:30:23 EST 2016">Save Program</menu_button>
+<file_saved time="Sat Jan 30 13:30:23 EST 2016">D:\Onedrive\Union Documents\Creative Computing\BlairHagenHW4.py</file_saved>
+</file_created>
+<menu_button time="Sat Jan 30 13:30:23 EST 2016">Load Program</menu_button>
+<command_run time="Sat Jan 30 13:30:25 EST 2016">copyPicture = cropPic(source, target, 23, 3, 70, 65, 123, 56)></command_run>
+<command_run time="Sat Jan 30 13:30:33 EST 2016">explore(copyPicture)></command_run>
+<command_run time="Sat Jan 30 13:30:45 EST 2016">target = makePicture(pickAFile())></command_run>
+<command_run time="Sat Jan 30 13:30:52 EST 2016">copyPicture = cropPic(source, target, 23, 3, 70, 65, 123, 56)></command_run>
+<command_run time="Sat Jan 30 13:30:57 EST 2016">show(copyPicture)></command_run>
+<command_run time="Sat Jan 30 13:31:01 EST 2016">target = makePicture(pickAFile())></command_run>
+<command_run time="Sat Jan 30 13:31:07 EST 2016">copyPicture = cropPic(source, target, 23, 3, 70, 65, 123, 56)></command_run>
+<command_run time="Sat Jan 30 13:31:12 EST 2016">show(copyPicture)></command_run>
+<menu_button time="Sat Jan 30 13:31:31 EST 2016">Undo</menu_button>
+<command_run time="Sat Jan 30 13:32:09 EST 2016">writePictureTo(copyPicture, 'D:/Onedrive/Union Documents/Creative Computing/cropPic.jpg')></command_run>
+<menu_button time="Sat Jan 30 13:32:38 EST 2016">Save Program</menu_button>
+<file_saved time="Sat Jan 30 13:32:38 EST 2016">D:\Onedrive\Union Documents\Creative Computing\BlairHagenHW4.py</file_saved>
+</file_created>
+<menu_button time="Sat Jan 30 13:33:36 EST 2016">Save Program</menu_button>
+<file_saved time="Sat Jan 30 13:33:36 EST 2016">D:\Onedrive\Union Documents\Creative Computing\BlairHagenHW4.py</file_saved>
+</file_created>
+<menu_button time="Sat Jan 30 13:34:54 EST 2016">Save Program</menu_button>
+<file_saved time="Sat Jan 30 13:34:54 EST 2016">D:\Onedrive\Union Documents\Creative Computing\BlairHagenHW4.py</file_saved>
+</file_created>
+<menu_button time="Sat Jan 30 13:34:56 EST 2016">Save Program</menu_button>
+<file_saved time="Sat Jan 30 13:34:56 EST 2016">D:\Onedrive\Union Documents\Creative Computing\BlairHagenHW4.py</file_saved>
+</file_created>

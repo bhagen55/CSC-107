@@ -1,0 +1,197 @@
+<file_created time="Tue Feb 09 10:46:48 EST 2016">
+<menu_button time="Tue Feb 09 11:04:24 EST 2016">Save Program</menu_button>
+<menu_button time="Tue Feb 09 11:04:39 EST 2016">Save Program</menu_button>
+<file_saved time="Tue Feb 09 11:04:47 EST 2016">C:\Users\bhage\OneDrive\Union Documents\Creative Computing\CSC107Lab6.py</file_saved>
+</file_created>
+<menu_button time="Tue Feb 09 11:04:49 EST 2016">Load Program</menu_button>
+<menu_button time="Tue Feb 09 11:04:52 EST 2016">Load Program</menu_button>
+<file_saved time="Tue Feb 09 11:04:52 EST 2016">C:\Users\bhage\OneDrive\Union Documents\Creative Computing\CSC107Lab6.py</file_saved>
+</file_created>
+<menu_button time="Tue Feb 09 11:05:09 EST 2016">Save Program</menu_button>
+<file_saved time="Tue Feb 09 11:05:09 EST 2016">C:\Users\bhage\OneDrive\Union Documents\Creative Computing\CSC107Lab6.py</file_saved>
+</file_created>
+<menu_button time="Tue Feb 09 11:05:10 EST 2016">Load Program</menu_button>
+<command_run time="Tue Feb 09 11:05:21 EST 2016">picture = makePicture(pickAFile())></command_run>
+<command_run time="Tue Feb 09 11:05:32 EST 2016">sepiaTint(picture)></command_run>
+<command_run time="Tue Feb 09 11:05:44 EST 2016">picture = makePicture(pickAFile())></command_run>
+<command_run time="Tue Feb 09 11:05:53 EST 2016">sepiaTint(picture)></command_run>
+<menu_button time="Tue Feb 09 11:07:01 EST 2016">Save Program</menu_button>
+<file_saved time="Tue Feb 09 11:07:01 EST 2016">C:\Users\bhage\OneDrive\Union Documents\Creative Computing\CSC107Lab6.py</file_saved>
+</file_created>
+<menu_button time="Tue Feb 09 11:07:02 EST 2016">Load Program</menu_button>
+<command_run time="Tue Feb 09 11:07:05 EST 2016">sepiaTint(picture)></command_run>
+<command_run time="Tue Feb 09 11:07:23 EST 2016">picture = makePicture(pickAFile())></command_run>
+<command_run time="Tue Feb 09 11:07:33 EST 2016">sepiaTint(picture)></command_run>
+<menu_button time="Tue Feb 09 11:07:51 EST 2016">Undo</menu_button>
+<menu_button time="Tue Feb 09 11:07:51 EST 2016">Undo</menu_button>
+<menu_button time="Tue Feb 09 11:07:52 EST 2016">Undo</menu_button>
+<menu_button time="Tue Feb 09 11:07:52 EST 2016">Undo</menu_button>
+<menu_button time="Tue Feb 09 11:07:53 EST 2016">Undo</menu_button>
+<menu_button time="Tue Feb 09 11:07:53 EST 2016">Undo</menu_button>
+<menu_button time="Tue Feb 09 11:07:55 EST 2016">Load Program</menu_button>
+<file_saved time="Tue Feb 09 11:07:55 EST 2016">C:\Users\bhage\OneDrive\Union Documents\Creative Computing\CSC107Lab6.py</file_saved>
+</file_created>
+<command_run time="Tue Feb 09 11:07:57 EST 2016">picture = makePicture(pickAFile())></command_run>
+<command_run time="Tue Feb 09 11:08:05 EST 2016">sepiaTint(picture)></command_run>
+<command_run time="Tue Feb 09 11:08:17 EST 2016">picture = makePicture(pickAFile())></command_run>
+<command_run time="Tue Feb 09 11:08:27 EST 2016">sepiaTint(picture)></command_run>
+<menu_button time="Tue Feb 09 11:16:17 EST 2016">Save Program</menu_button>
+<file_saved time="Tue Feb 09 11:16:17 EST 2016">C:\Users\bhage\OneDrive\Union Documents\Creative Computing\CSC107Lab6.py</file_saved>
+</file_created>
+<menu_button time="Tue Feb 09 11:16:18 EST 2016">Load Program</menu_button>
+<command_run time="Tue Feb 09 11:16:20 EST 2016">picture = makePicture(pickAFile())></command_run>
+<command_run time="Tue Feb 09 11:16:31 EST 2016">picture = makePicture(pickAFile())></command_run>
+<command_run time="Tue Feb 09 11:16:40 EST 2016">sepiaTint(picture)></command_run>
+<command_run time="Tue Feb 09 11:16:59 EST 2016">picture = makePicture(pickAFile())></command_run>
+<command_run time="Tue Feb 09 11:17:08 EST 2016">sepiaTint(picture)></command_run>
+<menu_button time="Tue Feb 09 11:17:29 EST 2016">Save Program</menu_button>
+<file_saved time="Tue Feb 09 11:17:29 EST 2016">C:\Users\bhage\OneDrive\Union Documents\Creative Computing\CSC107Lab6.py</file_saved>
+<file_opened time="Tue Feb 09 11:18:08 EST 2016">C:\Users\bhage\OneDrive\Union Documents\Creative Computing\CSC107Lab6.py</file_opened>
+<menu_button time="Tue Feb 09 11:18:11 EST 2016">Load Program</menu_button>
+<command_run time="Tue Feb 09 11:18:18 EST 2016">picture = makePicture(pickAFile())></command_run>
+<command_run time="Tue Feb 09 11:18:34 EST 2016">myPic = sepiaTint(picture)></command_run>
+<command_run time="Tue Feb 09 11:19:28 EST 2016">writePictureTo(myPic, 'C:/Users/bhage/OneDrive/Union Documents/Creative Computing/sepia_lab6.jpg')></command_run>
+<menu_button time="Tue Feb 09 11:23:46 EST 2016">Save Program</menu_button>
+<file_saved time="Tue Feb 09 11:23:46 EST 2016">C:\Users\bhage\OneDrive\Union Documents\Creative Computing\CSC107Lab6.py</file_saved>
+</file_created>
+<menu_button time="Tue Feb 09 11:23:51 EST 2016">Load Program</menu_button>
+<file_saved time="Tue Feb 09 11:23:51 EST 2016">C:\Users\bhage\OneDrive\Union Documents\Creative Computing\CSC107Lab6.py</file_saved>
+</file_created>
+<menu_button time="Tue Feb 09 11:23:55 EST 2016">Load Program</menu_button>
+<file_saved time="Tue Feb 09 11:23:55 EST 2016">C:\Users\bhage\OneDrive\Union Documents\Creative Computing\CSC107Lab6.py</file_saved>
+</file_created>
+<command_run time="Tue Feb 09 11:23:59 EST 2016">edge(picture)></command_run>
+<menu_button time="Tue Feb 09 11:24:10 EST 2016">Save Program</menu_button>
+<file_saved time="Tue Feb 09 11:24:10 EST 2016">C:\Users\bhage\OneDrive\Union Documents\Creative Computing\CSC107Lab6.py</file_saved>
+</file_created>
+<menu_button time="Tue Feb 09 11:24:10 EST 2016">Load Program</menu_button>
+<command_run time="Tue Feb 09 11:24:12 EST 2016">edge(picture)></command_run>
+<menu_button time="Tue Feb 09 11:24:31 EST 2016">Save Program</menu_button>
+<file_saved time="Tue Feb 09 11:24:31 EST 2016">C:\Users\bhage\OneDrive\Union Documents\Creative Computing\CSC107Lab6.py</file_saved>
+</file_created>
+<menu_button time="Tue Feb 09 11:24:32 EST 2016">Load Program</menu_button>
+<command_run time="Tue Feb 09 11:24:33 EST 2016">edge(picture)></command_run>
+<menu_button time="Tue Feb 09 11:24:36 EST 2016">Load Program</menu_button>
+<file_saved time="Tue Feb 09 11:24:36 EST 2016">C:\Users\bhage\OneDrive\Union Documents\Creative Computing\CSC107Lab6.py</file_saved>
+</file_created>
+<command_run time="Tue Feb 09 11:24:37 EST 2016">edge(picture)></command_run>
+<menu_button time="Tue Feb 09 11:24:50 EST 2016">Save Program</menu_button>
+<file_saved time="Tue Feb 09 11:24:50 EST 2016">C:\Users\bhage\OneDrive\Union Documents\Creative Computing\CSC107Lab6.py</file_saved>
+</file_created>
+<menu_button time="Tue Feb 09 11:24:51 EST 2016">Load Program</menu_button>
+<command_run time="Tue Feb 09 11:24:52 EST 2016">edge(picture)></command_run>
+<command_run time="Tue Feb 09 11:25:03 EST 2016">picture = makePicture(pickAFile())></command_run>
+<command_run time="Tue Feb 09 11:25:09 EST 2016">edge(picture)></command_run>
+<command_run time="Tue Feb 09 11:25:28 EST 2016">picture = makePicture(pickAFile())></command_run>
+<command_run time="Tue Feb 09 11:25:37 EST 2016">edge(picture)></command_run>
+<menu_button time="Tue Feb 09 11:25:46 EST 2016">Save Program</menu_button>
+<file_saved time="Tue Feb 09 11:25:46 EST 2016">C:\Users\bhage\OneDrive\Union Documents\Creative Computing\CSC107Lab6.py</file_saved>
+</file_created>
+<menu_button time="Tue Feb 09 11:25:47 EST 2016">Load Program</menu_button>
+<command_run time="Tue Feb 09 11:25:48 EST 2016">picture = makePicture(pickAFile())></command_run>
+<command_run time="Tue Feb 09 11:26:02 EST 2016">myPic = edge(source)></command_run>
+<command_run time="Tue Feb 09 11:26:09 EST 2016">myPic = edge(picture)></command_run>
+<command_run time="Tue Feb 09 11:26:28 EST 2016">writePictureTo(myPic, 'C:/Users/bhage/OneDrive/Union Documents/Creative Computing/edgedetection_lab6.jpg')></command_run>
+<menu_button time="Tue Feb 09 11:34:32 EST 2016">Load Program</menu_button>
+<file_saved time="Tue Feb 09 11:34:32 EST 2016">C:\Users\bhage\OneDrive\Union Documents\Creative Computing\CSC107Lab6.py</file_saved>
+</file_created>
+<menu_button time="Tue Feb 09 11:34:36 EST 2016">Load Program</menu_button>
+<file_saved time="Tue Feb 09 11:34:36 EST 2016">C:\Users\bhage\OneDrive\Union Documents\Creative Computing\CSC107Lab6.py</file_saved>
+</file_created>
+<command_run time="Tue Feb 09 11:34:43 EST 2016">setMediaPath()></command_run>
+<command_run time="Tue Feb 09 11:34:51 EST 2016">blendPictures()></command_run>
+<menu_button time="Tue Feb 09 11:35:00 EST 2016">Save Program</menu_button>
+<file_saved time="Tue Feb 09 11:35:00 EST 2016">C:\Users\bhage\OneDrive\Union Documents\Creative Computing\CSC107Lab6.py</file_saved>
+</file_created>
+<menu_button time="Tue Feb 09 11:35:01 EST 2016">Load Program</menu_button>
+<command_run time="Tue Feb 09 11:35:02 EST 2016">blendPictures()></command_run>
+<menu_button time="Tue Feb 09 11:35:10 EST 2016">Load Program</menu_button>
+<file_saved time="Tue Feb 09 11:35:10 EST 2016">C:\Users\bhage\OneDrive\Union Documents\Creative Computing\CSC107Lab6.py</file_saved>
+</file_created>
+<command_run time="Tue Feb 09 11:35:12 EST 2016">blendPictures()></command_run>
+<menu_button time="Tue Feb 09 11:35:21 EST 2016">Save Program</menu_button>
+<file_saved time="Tue Feb 09 11:35:21 EST 2016">C:\Users\bhage\OneDrive\Union Documents\Creative Computing\CSC107Lab6.py</file_saved>
+</file_created>
+<menu_button time="Tue Feb 09 11:35:22 EST 2016">Load Program</menu_button>
+<command_run time="Tue Feb 09 11:35:23 EST 2016">blendPictures()></command_run>
+<menu_button time="Tue Feb 09 11:35:29 EST 2016">Save Program</menu_button>
+<file_saved time="Tue Feb 09 11:35:29 EST 2016">C:\Users\bhage\OneDrive\Union Documents\Creative Computing\CSC107Lab6.py</file_saved>
+</file_created>
+<menu_button time="Tue Feb 09 11:35:31 EST 2016">Load Program</menu_button>
+<command_run time="Tue Feb 09 11:35:32 EST 2016">blendPictures()></command_run>
+<menu_button time="Tue Feb 09 11:36:01 EST 2016">Save Program</menu_button>
+<file_saved time="Tue Feb 09 11:36:01 EST 2016">C:\Users\bhage\OneDrive\Union Documents\Creative Computing\CSC107Lab6.py</file_saved>
+</file_created>
+<menu_button time="Tue Feb 09 11:36:02 EST 2016">Load Program</menu_button>
+<command_run time="Tue Feb 09 11:36:03 EST 2016">blendPictures()></command_run>
+<menu_button time="Tue Feb 09 11:36:34 EST 2016">Save Program</menu_button>
+<file_saved time="Tue Feb 09 11:36:34 EST 2016">C:\Users\bhage\OneDrive\Union Documents\Creative Computing\CSC107Lab6.py</file_saved>
+</file_created>
+<menu_button time="Tue Feb 09 11:36:35 EST 2016">Load Program</menu_button>
+<command_run time="Tue Feb 09 11:36:36 EST 2016">blendPictures()></command_run>
+<menu_button time="Tue Feb 09 11:36:51 EST 2016">Save Program</menu_button>
+<file_saved time="Tue Feb 09 11:36:51 EST 2016">C:\Users\bhage\OneDrive\Union Documents\Creative Computing\CSC107Lab6.py</file_saved>
+</file_created>
+<menu_button time="Tue Feb 09 11:36:52 EST 2016">Load Program</menu_button>
+<command_run time="Tue Feb 09 11:36:53 EST 2016">blendPictures()></command_run>
+<menu_button time="Tue Feb 09 11:37:17 EST 2016">Save Program</menu_button>
+<file_saved time="Tue Feb 09 11:37:17 EST 2016">C:\Users\bhage\OneDrive\Union Documents\Creative Computing\CSC107Lab6.py</file_saved>
+</file_created>
+<menu_button time="Tue Feb 09 11:37:17 EST 2016">Load Program</menu_button>
+<command_run time="Tue Feb 09 11:37:18 EST 2016">blendPictures()></command_run>
+<menu_button time="Tue Feb 09 11:37:47 EST 2016">Save Program</menu_button>
+<file_saved time="Tue Feb 09 11:37:47 EST 2016">C:\Users\bhage\OneDrive\Union Documents\Creative Computing\CSC107Lab6.py</file_saved>
+</file_created>
+<menu_button time="Tue Feb 09 11:37:48 EST 2016">Load Program</menu_button>
+<command_run time="Tue Feb 09 11:37:48 EST 2016">blendPictures()></command_run>
+<menu_button time="Tue Feb 09 11:38:14 EST 2016">Save Program</menu_button>
+<file_saved time="Tue Feb 09 11:38:14 EST 2016">C:\Users\bhage\OneDrive\Union Documents\Creative Computing\CSC107Lab6.py</file_saved>
+</file_created>
+<menu_button time="Tue Feb 09 11:38:15 EST 2016">Load Program</menu_button>
+<command_run time="Tue Feb 09 11:38:16 EST 2016">blendPictures()></command_run>
+<menu_button time="Tue Feb 09 11:39:09 EST 2016">Save Program</menu_button>
+<file_saved time="Tue Feb 09 11:39:09 EST 2016">C:\Users\bhage\OneDrive\Union Documents\Creative Computing\CSC107Lab6.py</file_saved>
+</file_created>
+<menu_button time="Tue Feb 09 11:39:10 EST 2016">Load Program</menu_button>
+<command_run time="Tue Feb 09 11:39:12 EST 2016">blendPictures()></command_run>
+<menu_button time="Tue Feb 09 11:39:39 EST 2016">Save Program</menu_button>
+<file_saved time="Tue Feb 09 11:39:39 EST 2016">C:\Users\bhage\OneDrive\Union Documents\Creative Computing\CSC107Lab6.py</file_saved>
+</file_created>
+<menu_button time="Tue Feb 09 11:39:40 EST 2016">Load Program</menu_button>
+<command_run time="Tue Feb 09 11:39:41 EST 2016">blendPictures()></command_run>
+<menu_button time="Tue Feb 09 11:39:53 EST 2016">Save Program</menu_button>
+<file_saved time="Tue Feb 09 11:39:53 EST 2016">C:\Users\bhage\OneDrive\Union Documents\Creative Computing\CSC107Lab6.py</file_saved>
+</file_created>
+<menu_button time="Tue Feb 09 11:39:54 EST 2016">Load Program</menu_button>
+<command_run time="Tue Feb 09 11:39:55 EST 2016">blendPictures()></command_run>
+<menu_button time="Tue Feb 09 11:40:13 EST 2016">Save Program</menu_button>
+<file_saved time="Tue Feb 09 11:40:13 EST 2016">C:\Users\bhage\OneDrive\Union Documents\Creative Computing\CSC107Lab6.py</file_saved>
+</file_created>
+<menu_button time="Tue Feb 09 11:40:14 EST 2016">Load Program</menu_button>
+<command_run time="Tue Feb 09 11:40:15 EST 2016">blendPictures()></command_run>
+<menu_button time="Tue Feb 09 11:40:42 EST 2016">Save Program</menu_button>
+<file_saved time="Tue Feb 09 11:40:42 EST 2016">C:\Users\bhage\OneDrive\Union Documents\Creative Computing\CSC107Lab6.py</file_saved>
+</file_created>
+<menu_button time="Tue Feb 09 11:40:44 EST 2016">Load Program</menu_button>
+<command_run time="Tue Feb 09 11:40:45 EST 2016">blendPictures()></command_run>
+<menu_button time="Tue Feb 09 11:41:04 EST 2016">Save Program</menu_button>
+<file_saved time="Tue Feb 09 11:41:04 EST 2016">C:\Users\bhage\OneDrive\Union Documents\Creative Computing\CSC107Lab6.py</file_saved>
+</file_created>
+<menu_button time="Tue Feb 09 11:41:06 EST 2016">Load Program</menu_button>
+<command_run time="Tue Feb 09 11:41:06 EST 2016">blendPictures()></command_run>
+<menu_button time="Tue Feb 09 11:42:05 EST 2016">Save Program</menu_button>
+<file_saved time="Tue Feb 09 11:42:05 EST 2016">C:\Users\bhage\OneDrive\Union Documents\Creative Computing\CSC107Lab6.py</file_saved>
+</file_created>
+<menu_button time="Tue Feb 09 11:42:06 EST 2016">Load Program</menu_button>
+<command_run time="Tue Feb 09 11:42:07 EST 2016">blendPictures()></command_run>
+<menu_button time="Tue Feb 09 11:42:36 EST 2016">Save Program</menu_button>
+<file_saved time="Tue Feb 09 11:42:36 EST 2016">C:\Users\bhage\OneDrive\Union Documents\Creative Computing\CSC107Lab6.py</file_saved>
+</file_created>
+<menu_button time="Tue Feb 09 11:42:37 EST 2016">Load Program</menu_button>
+<command_run time="Tue Feb 09 11:42:37 EST 2016">blendPictures()></command_run>
+<menu_button time="Tue Feb 09 11:43:28 EST 2016">Save Program</menu_button>
+<file_saved time="Tue Feb 09 11:43:28 EST 2016">C:\Users\bhage\OneDrive\Union Documents\Creative Computing\CSC107Lab6.py</file_saved>
+<file_opened time="Sat Feb 13 17:52:53 EST 2016">D:\Onedrive\Union Documents\Creative Computing\CSC107Lab6.py</file_opened>
+<menu_button time="Sat Feb 13 17:54:43 EST 2016">Save Program</menu_button>
+<file_saved time="Sat Feb 13 17:54:43 EST 2016">D:\Onedrive\Union Documents\Creative Computing\CSC107Lab6.py</file_saved>
+</file_created>

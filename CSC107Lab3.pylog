@@ -1,0 +1,26 @@
+<file_created time="Tue Feb 09 11:03:44 EST 2016">
+<Could not find C:\Users\bhage\OneDrive\Union Documents\Creative Computing\CSC107Lab3.pylog, creating a new logfile>
+<menu_button time="Tue Feb 09 11:09:50 EST 2016">Save Program</menu_button>
+<file_saved time="Tue Feb 09 11:09:50 EST 2016">C:\Users\bhage\OneDrive\Union Documents\Creative Computing\CSC107Lab3.py</file_saved>
+<file_opened time="Tue Feb 09 11:11:58 EST 2016">C:\Users\bhage\OneDrive\Union Documents\Creative Computing\CSC107Lab3.py</file_opened>
+<menu_button time="Tue Feb 09 11:12:07 EST 2016">Save Program</menu_button>
+<file_saved time="Tue Feb 09 11:12:07 EST 2016">C:\Users\bhage\OneDrive\Union Documents\Creative Computing\CSC107Lab3.py</file_saved>
+</file_created>
+<menu_button time="Tue Feb 09 11:12:13 EST 2016">Load Program</menu_button>
+<command_run time="Tue Feb 09 11:12:24 EST 2016">picture = makePicture(pickAFile())></command_run>
+<command_run time="Tue Feb 09 11:12:37 EST 2016">makeBlackAndhite(picture)></command_run>
+<command_run time="Tue Feb 09 11:12:44 EST 2016">makeBlackAndWhite(picture)></command_run>
+<menu_button time="Tue Feb 09 11:12:55 EST 2016">Undo</menu_button>
+<menu_button time="Tue Feb 09 11:12:56 EST 2016">Undo</menu_button>
+<menu_button time="Tue Feb 09 11:12:56 EST 2016">Undo</menu_button>
+<menu_button time="Tue Feb 09 11:12:57 EST 2016">Undo</menu_button>
+<menu_button time="Tue Feb 09 11:12:58 EST 2016">Undo</menu_button>
+<menu_button time="Tue Feb 09 11:13:24 EST 2016">Save Program</menu_button>
+<file_saved time="Tue Feb 09 11:13:24 EST 2016">C:\Users\bhage\OneDrive\Union Documents\Creative Computing\CSC107Lab3.py</file_saved>
+</file_created>
+<menu_button time="Tue Feb 09 11:13:26 EST 2016">Load Program</menu_button>
+<command_run time="Tue Feb 09 11:13:32 EST 2016">picture = makePicture(pickAFile())></command_run>
+<command_run time="Tue Feb 09 11:13:43 EST 2016">weightedBlackAndWhite(picture)></command_run>
+<menu_button time="Tue Feb 09 11:15:45 EST 2016">Save Program</menu_button>
+<file_saved time="Tue Feb 09 11:15:45 EST 2016">C:\Users\bhage\OneDrive\Union Documents\Creative Computing\CSC107Lab3.py</file_saved>
+</file_created>

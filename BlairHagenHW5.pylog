@@ -1,0 +1,175 @@
+<file_created time="Sun Feb 07 10:40:53 EST 2016">
+<command_run time="Sun Feb 07 10:44:00 EST 2016">27 % 2></command_run>
+<command_run time="Sun Feb 07 10:44:08 EST 2016">28 % 2></command_run>
+<command_run time="Sun Feb 07 10:44:17 EST 2016">4 % 2></command_run>
+<command_run time="Sun Feb 07 10:44:26 EST 2016">7 % 2></command_run>
+<command_run time="Sun Feb 07 10:44:30 EST 2016">7% 3></command_run>
+<command_run time="Sun Feb 07 10:44:34 EST 2016">7%5></command_run>
+<command_run time="Sun Feb 07 10:44:37 EST 2016">7%7></command_run>
+<command_run time="Sun Feb 07 10:44:40 EST 2016">7%2></command_run>
+<command_run time="Sun Feb 07 10:44:43 EST 2016">7%2></command_run>
+<command_run time="Sun Feb 07 10:44:47 EST 2016">7%3></command_run>
+<command_run time="Sun Feb 07 10:44:49 EST 2016">7%4></command_run>
+<command_run time="Sun Feb 07 10:45:05 EST 2016">7/2></command_run>
+<command_run time="Sun Feb 07 10:45:14 EST 2016">10 % 2></command_run>
+<command_run time="Sun Feb 07 10:46:24 EST 2016">27 % 2></command_run>
+<command_run time="Sun Feb 07 10:46:41 EST 2016">1 ** 2></command_run>
+<command_run time="Sun Feb 07 10:46:43 EST 2016">2 ** 2></command_run>
+<command_run time="Sun Feb 07 10:46:46 EST 2016">2 * 2></command_run>
+<command_run time="Sun Feb 07 10:46:49 EST 2016">2 ** 4></command_run>
+<command_run time="Sun Feb 07 10:47:05 EST 2016">2 ** 10></command_run>
+<command_run time="Sun Feb 07 10:47:15 EST 2016">3 ** 3></command_run>
+<command_run time="Sun Feb 07 10:47:19 EST 2016">3 % 2></command_run>
+<command_run time="Sun Feb 07 10:47:39 EST 2016">2 % 2></command_run>
+<command_run time="Sun Feb 07 10:47:47 EST 2016">4 % 2></command_run>
+<command_run time="Sun Feb 07 10:47:51 EST 2016">4 % 4></command_run>
+<command_run time="Sun Feb 07 10:47:54 EST 2016">4 % 6></command_run>
+<command_run time="Sun Feb 07 10:48:00 EST 2016">6 % 3></command_run>
+<command_run time="Sun Feb 07 10:48:06 EST 2016">1 % 2></command_run>
+<command_run time="Sun Feb 07 10:49:02 EST 2016">2 % 2></command_run>
+<command_run time="Sun Feb 07 10:49:14 EST 2016">11 % 2></command_run>
+<command_run time="Sun Feb 07 10:49:17 EST 2016">12 % 2></command_run>
+<menu_button time="Sun Feb 07 10:50:57 EST 2016">Save Program</menu_button>
+<file_saved time="Sun Feb 07 10:51:08 EST 2016">C:\Users\bhage\OneDrive\Union Documents\Creative Computing\BlairHagenHW5.py</file_saved>
+</file_created>
+<menu_button time="Sun Feb 07 10:51:09 EST 2016">Load Program</menu_button>
+<menu_button time="Sun Feb 07 10:51:13 EST 2016">Save Program</menu_button>
+<file_saved time="Sun Feb 07 10:51:13 EST 2016">C:\Users\bhage\OneDrive\Union Documents\Creative Computing\BlairHagenHW5.py</file_saved>
+</file_created>
+<menu_button time="Sun Feb 07 10:51:14 EST 2016">Load Program</menu_button>
+<command_run time="Sun Feb 07 10:51:19 EST 2016">fun(1)></command_run>
+<menu_button time="Sun Feb 07 10:51:31 EST 2016">Save Program</menu_button>
+<file_saved time="Sun Feb 07 10:51:31 EST 2016">C:\Users\bhage\OneDrive\Union Documents\Creative Computing\BlairHagenHW5.py</file_saved>
+</file_created>
+<menu_button time="Sun Feb 07 10:51:32 EST 2016">Load Program</menu_button>
+<command_run time="Sun Feb 07 10:51:33 EST 2016">fun(1)></command_run>
+<command_run time="Sun Feb 07 10:51:37 EST 2016">fun(3)></command_run>
+<command_run time="Sun Feb 07 10:51:40 EST 2016">fun(2)></command_run>
+<command_run time="Sun Feb 07 10:51:42 EST 2016">fun(12)></command_run>
+<menu_button time="Sun Feb 07 10:52:20 EST 2016">Save Program</menu_button>
+<file_saved time="Sun Feb 07 10:52:20 EST 2016">C:\Users\bhage\OneDrive\Union Documents\Creative Computing\BlairHagenHW5.py</file_saved>
+</file_created>
+<menu_button time="Sun Feb 07 10:53:30 EST 2016">Explain makePicture</menu_button>
+<menu_button time="Sun Feb 07 10:53:35 EST 2016">Program Area + Interactions Area</menu_button>
+<menu_button time="Sun Feb 07 10:53:45 EST 2016">Explain makeEmptyPicture</menu_button>
+<menu_button time="Sun Feb 07 10:54:06 EST 2016">Program Area + Interactions Area</menu_button>
+<menu_button time="Sun Feb 07 11:01:34 EST 2016">Save Program</menu_button>
+<file_saved time="Sun Feb 07 11:01:34 EST 2016">C:\Users\bhage\OneDrive\Union Documents\Creative Computing\BlairHagenHW5.py</file_saved>
+</file_created>
+<menu_button time="Sun Feb 07 11:01:36 EST 2016">Load Program</menu_button>
+<command_run time="Sun Feb 07 11:01:49 EST 2016">myPic = makePicture(pickAFile())></command_run>
+<command_run time="Sun Feb 07 11:02:04 EST 2016">scalePic(myPic, 2, 2)></command_run>
+<menu_button time="Sun Feb 07 11:02:18 EST 2016">Explain makeColor</menu_button>
+<menu_button time="Sun Feb 07 11:02:21 EST 2016">Program Area + Interactions Area</menu_button>
+<menu_button time="Sun Feb 07 11:02:41 EST 2016">Save Program</menu_button>
+<file_saved time="Sun Feb 07 11:02:41 EST 2016">C:\Users\bhage\OneDrive\Union Documents\Creative Computing\BlairHagenHW5.py</file_saved>
+</file_created>
+<menu_button time="Sun Feb 07 11:02:42 EST 2016">Load Program</menu_button>
+<command_run time="Sun Feb 07 11:02:45 EST 2016">scalePic(myPic, 2, 2)></command_run>
+<menu_button time="Sun Feb 07 11:02:58 EST 2016">Load Program</menu_button>
+<file_saved time="Sun Feb 07 11:02:58 EST 2016">C:\Users\bhage\OneDrive\Union Documents\Creative Computing\BlairHagenHW5.py</file_saved>
+</file_created>
+<command_run time="Sun Feb 07 11:02:59 EST 2016">scalePic(myPic, 2, 2)></command_run>
+<command_run time="Sun Feb 07 11:03:24 EST 2016">scalePic(myPic, .5, .5)></command_run>
+<menu_button time="Sun Feb 07 11:03:44 EST 2016">Save Program</menu_button>
+<file_saved time="Sun Feb 07 11:03:44 EST 2016">C:\Users\bhage\OneDrive\Union Documents\Creative Computing\BlairHagenHW5.py</file_saved>
+</file_created>
+<menu_button time="Sun Feb 07 11:03:45 EST 2016">Load Program</menu_button>
+<command_run time="Sun Feb 07 11:03:46 EST 2016">scalePic(myPic, .5, .5)></command_run>
+<menu_button time="Sun Feb 07 11:04:15 EST 2016">Save Program</menu_button>
+<file_saved time="Sun Feb 07 11:04:15 EST 2016">C:\Users\bhage\OneDrive\Union Documents\Creative Computing\BlairHagenHW5.py</file_saved>
+</file_created>
+<menu_button time="Sun Feb 07 11:04:16 EST 2016">Load Program</menu_button>
+<command_run time="Sun Feb 07 11:04:17 EST 2016">scalePic(myPic, .5, .5)></command_run>
+<menu_button time="Sun Feb 07 11:05:34 EST 2016">Save Program</menu_button>
+<file_saved time="Sun Feb 07 11:05:34 EST 2016">C:\Users\bhage\OneDrive\Union Documents\Creative Computing\BlairHagenHW5.py</file_saved>
+</file_created>
+<menu_button time="Sun Feb 07 11:05:35 EST 2016">Load Program</menu_button>
+<command_run time="Sun Feb 07 11:05:36 EST 2016">scalePic(myPic, .5, .5)></command_run>
+<menu_button time="Sun Feb 07 11:07:11 EST 2016">Load Program</menu_button>
+<file_saved time="Sun Feb 07 11:07:11 EST 2016">C:\Users\bhage\OneDrive\Union Documents\Creative Computing\BlairHagenHW5.py</file_saved>
+</file_created>
+<command_run time="Sun Feb 07 11:07:12 EST 2016">scalePic(myPic, .5, .5)></command_run>
+<menu_button time="Sun Feb 07 11:07:36 EST 2016">Save Program</menu_button>
+<file_saved time="Sun Feb 07 11:07:36 EST 2016">C:\Users\bhage\OneDrive\Union Documents\Creative Computing\BlairHagenHW5.py</file_saved>
+</file_created>
+<menu_button time="Sun Feb 07 11:07:37 EST 2016">Load Program</menu_button>
+<command_run time="Sun Feb 07 11:07:38 EST 2016">scalePic(myPic, .5, .5)></command_run>
+<command_run time="Sun Feb 07 11:07:51 EST 2016">scalePic(myPic, 2, 2)></command_run>
+<menu_button time="Sun Feb 07 11:08:02 EST 2016">Save Program</menu_button>
+<file_saved time="Sun Feb 07 11:08:02 EST 2016">C:\Users\bhage\OneDrive\Union Documents\Creative Computing\BlairHagenHW5.py</file_saved>
+</file_created>
+<menu_button time="Sun Feb 07 11:08:03 EST 2016">Load Program</menu_button>
+<command_run time="Sun Feb 07 11:08:04 EST 2016">scalePic(myPic, 2, 2)></command_run>
+<menu_button time="Sun Feb 07 11:08:41 EST 2016">Save Program</menu_button>
+<file_saved time="Sun Feb 07 11:08:41 EST 2016">C:\Users\bhage\OneDrive\Union Documents\Creative Computing\BlairHagenHW5.py</file_saved>
+</file_created>
+<menu_button time="Sun Feb 07 11:08:42 EST 2016">Load Program</menu_button>
+<command_run time="Sun Feb 07 11:08:43 EST 2016">scalePic(myPic, 2, 2)></command_run>
+<menu_button time="Sun Feb 07 11:08:54 EST 2016">Undo</menu_button>
+<menu_button time="Sun Feb 07 11:08:55 EST 2016">Undo</menu_button>
+<menu_button time="Sun Feb 07 11:08:55 EST 2016">Undo</menu_button>
+<menu_button time="Sun Feb 07 11:08:55 EST 2016">Undo</menu_button>
+<menu_button time="Sun Feb 07 11:08:55 EST 2016">Undo</menu_button>
+<menu_button time="Sun Feb 07 11:08:55 EST 2016">Undo</menu_button>
+<menu_button time="Sun Feb 07 11:08:55 EST 2016">Undo</menu_button>
+<menu_button time="Sun Feb 07 11:08:56 EST 2016">Undo</menu_button>
+<menu_button time="Sun Feb 07 11:08:56 EST 2016">Undo</menu_button>
+<menu_button time="Sun Feb 07 11:08:56 EST 2016">Undo</menu_button>
+<menu_button time="Sun Feb 07 11:08:57 EST 2016">Undo</menu_button>
+<menu_button time="Sun Feb 07 11:08:57 EST 2016">Undo</menu_button>
+<menu_button time="Sun Feb 07 11:09:26 EST 2016">Save Program</menu_button>
+<file_saved time="Sun Feb 07 11:09:26 EST 2016">C:\Users\bhage\OneDrive\Union Documents\Creative Computing\BlairHagenHW5.py</file_saved>
+</file_created>
+<menu_button time="Sun Feb 07 11:09:28 EST 2016">Load Program</menu_button>
+<command_run time="Sun Feb 07 11:09:29 EST 2016">scalePic(myPic, 2, 2)></command_run>
+<command_run time="Sun Feb 07 11:09:53 EST 2016">scalePic(myPic, .5, .5)></command_run>
+<menu_button time="Sun Feb 07 11:10:13 EST 2016">Save Program</menu_button>
+<file_saved time="Sun Feb 07 11:10:13 EST 2016">C:\Users\bhage\OneDrive\Union Documents\Creative Computing\BlairHagenHW5.py</file_saved>
+</file_created>
+<menu_button time="Sun Feb 07 11:10:14 EST 2016">Load Program</menu_button>
+<command_run time="Sun Feb 07 11:10:15 EST 2016">scalePic(myPic, .5, .5)></command_run>
+<menu_button time="Sun Feb 07 11:10:48 EST 2016">Save Program</menu_button>
+<file_saved time="Sun Feb 07 11:10:48 EST 2016">C:\Users\bhage\OneDrive\Union Documents\Creative Computing\BlairHagenHW5.py</file_saved>
+<file_opened time="Sun Feb 07 11:16:56 EST 2016">C:\Users\bhage\OneDrive\Union Documents\Creative Computing\BlairHagenHW5.py</file_opened>
+<menu_button time="Sun Feb 07 11:17:11 EST 2016">Undo</menu_button>
+<menu_button time="Sun Feb 07 11:17:11 EST 2016">Undo</menu_button>
+<menu_button time="Sun Feb 07 11:17:12 EST 2016">Undo</menu_button>
+<menu_button time="Sun Feb 07 11:17:12 EST 2016">Undo</menu_button>
+<menu_button time="Sun Feb 07 11:17:12 EST 2016">Undo</menu_button>
+<menu_button time="Sun Feb 07 11:17:12 EST 2016">Undo</menu_button>
+<menu_button time="Sun Feb 07 11:17:13 EST 2016">Undo</menu_button>
+<menu_button time="Sun Feb 07 11:17:13 EST 2016">Undo</menu_button>
+<menu_button time="Sun Feb 07 11:17:13 EST 2016">Undo</menu_button>
+<menu_button time="Sun Feb 07 11:19:16 EST 2016">Load Program</menu_button>
+<file_saved time="Sun Feb 07 11:19:16 EST 2016">C:\Users\bhage\OneDrive\Union Documents\Creative Computing\BlairHagenHW5.py</file_saved>
+</file_created>
+<command_run time="Sun Feb 07 11:19:34 EST 2016">myPic = makePicture(pickAFile())></command_run>
+<command_run time="Sun Feb 07 11:19:49 EST 2016">scalePic(myPic, 1, 2)></command_run>
+<menu_button time="Sun Feb 07 11:20:01 EST 2016">Save Program</menu_button>
+<file_saved time="Sun Feb 07 11:20:01 EST 2016">C:\Users\bhage\OneDrive\Union Documents\Creative Computing\BlairHagenHW5.py</file_saved>
+</file_created>
+<command_run time="Sun Feb 07 11:20:08 EST 2016">scalePic(myPic, .1, 2)></command_run>
+<menu_button time="Sun Feb 07 11:20:14 EST 2016">Load Program</menu_button>
+<command_run time="Sun Feb 07 11:20:15 EST 2016">scalePic(myPic, .1, 2)></command_run>
+<menu_button time="Sun Feb 07 11:22:58 EST 2016">Save Program</menu_button>
+<file_saved time="Sun Feb 07 11:22:58 EST 2016">C:\Users\bhage\OneDrive\Union Documents\Creative Computing\BlairHagenHW5.py</file_saved>
+</file_created>
+<menu_button time="Sun Feb 07 11:23:03 EST 2016">Save Program</menu_button>
+<file_saved time="Sun Feb 07 11:23:03 EST 2016">C:\Users\bhage\OneDrive\Union Documents\Creative Computing\BlairHagenHW5.py</file_saved>
+</file_created>
+<menu_button time="Sun Feb 07 11:23:04 EST 2016">Load Program</menu_button>
+<command_run time="Sun Feb 07 11:23:33 EST 2016">targetPic = scalePic(myPic, .5, 2)></command_run>
+<menu_button time="Sun Feb 07 11:24:20 EST 2016">writePictureTo</menu_button>
+<command_run time="Sun Feb 07 11:24:38 EST 2016">writePictureTo(writePictureTo(targetPic, C:\Users\bhage\OneDrive\Union Documents\Creative Computing)></command_run>
+<command_run time="Sun Feb 07 11:24:45 EST 2016">writePictureTo(writePictureTo(targetPic, 'C:\Users\bhage\OneDrive\Union Documents\Creative Computing')></command_run>
+<command_run time="Sun Feb 07 11:24:59 EST 2016">writePictureTo(writePictureTo(targetPic, 'C:/Users/bhage/OneDrive/Union Documents/Creative Computing')></command_run>
+<command_run time="Sun Feb 07 11:25:17 EST 2016">writePictureTo(targetPic, 'C:\Users\bhage\OneDrive\Union Documents\Creative Computing')></command_run>
+<command_run time="Sun Feb 07 11:25:32 EST 2016">writePictureTo(targetPic, 'C:/Users/bhage/OneDrive/Union Documents/Creative Computing')></command_run>
+<command_run time="Sun Feb 07 11:25:51 EST 2016">writePictureTo(targetPic, 'C:/Users/bhage/OneDrive/Union Documents/Creative Computing/HW5_Scale.jpg')></command_run>
+<menu_button time="Sun Feb 07 11:26:04 EST 2016">Save Program</menu_button>
+<file_saved time="Sun Feb 07 11:26:04 EST 2016">C:\Users\bhage\OneDrive\Union Documents\Creative Computing\BlairHagenHW5.py</file_saved>
+</file_created>
+<menu_button time="Sun Feb 07 11:26:07 EST 2016">Save Program</menu_button>
+<file_saved time="Sun Feb 07 11:26:07 EST 2016">C:\Users\bhage\OneDrive\Union Documents\Creative Computing\BlairHagenHW5.py</file_saved>
+</file_created>

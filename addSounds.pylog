@@ -1,0 +1,33 @@
+<file_created time="Mon Feb 22 11:59:19 EST 2016">
+<menu_button time="Mon Feb 22 12:02:26 EST 2016">getLength</menu_button>
+<menu_button time="Mon Feb 22 12:03:03 EST 2016">Explain getSampleValueAt</menu_button>
+<menu_button time="Mon Feb 22 12:03:35 EST 2016">Save Program</menu_button>
+<file_saved time="Mon Feb 22 12:03:41 EST 2016">C:\Users\bhage\OneDrive\Union Documents\Creative Computing\addSounds.py</file_saved>
+</file_created>
+<menu_button time="Mon Feb 22 12:04:10 EST 2016">Explain setSampleValueAt</menu_button>
+<menu_button time="Mon Feb 22 12:04:25 EST 2016">Save Program</menu_button>
+<file_saved time="Mon Feb 22 12:04:25 EST 2016">C:\Users\bhage\OneDrive\Union Documents\Creative Computing\addSounds.py</file_saved>
+</file_created>
+<menu_button time="Mon Feb 22 12:04:35 EST 2016">Save Program</menu_button>
+<file_saved time="Mon Feb 22 12:04:35 EST 2016">C:\Users\bhage\OneDrive\Union Documents\Creative Computing\addSounds.py</file_saved>
+</file_created>
+<menu_button time="Mon Feb 22 12:04:37 EST 2016">Load Program</menu_button>
+<menu_button time="Mon Feb 22 12:04:40 EST 2016">Save Program</menu_button>
+<file_saved time="Mon Feb 22 12:04:40 EST 2016">C:\Users\bhage\OneDrive\Union Documents\Creative Computing\addSounds.py</file_saved>
+</file_created>
+<menu_button time="Mon Feb 22 12:04:40 EST 2016">Load Program</menu_button>
+<command_run time="Mon Feb 22 12:04:48 EST 2016">sound1 = makeSound(pickAFile())></command_run>
+<command_run time="Mon Feb 22 12:05:05 EST 2016">sound2 = makeSound(pickAFile())></command_run>
+<command_run time="Mon Feb 22 12:05:16 EST 2016">explore(sound1)></command_run>
+<command_run time="Mon Feb 22 12:05:21 EST 2016">explore(sound2)></command_run>
+<command_run time="Mon Feb 22 12:05:37 EST 2016">addSounds(sound1, sound2)></command_run>
+<menu_button time="Mon Feb 22 12:05:54 EST 2016">Explain getLength</menu_button>
+<menu_button time="Mon Feb 22 12:06:13 EST 2016">Save Program</menu_button>
+<file_saved time="Mon Feb 22 12:06:13 EST 2016">C:\Users\bhage\OneDrive\Union Documents\Creative Computing\addSounds.py</file_saved>
+</file_created>
+<menu_button time="Mon Feb 22 12:06:14 EST 2016">Load Program</menu_button>
+<command_run time="Mon Feb 22 12:06:15 EST 2016">addSounds(sound1, sound2)></command_run>
+<command_run time="Mon Feb 22 12:06:19 EST 2016">explore(sound1)></command_run>
+<menu_button time="Mon Feb 22 12:06:51 EST 2016">Save Program</menu_button>
+<file_saved time="Mon Feb 22 12:06:51 EST 2016">C:\Users\bhage\OneDrive\Union Documents\Creative Computing\addSounds.py</file_saved>
+</file_created>

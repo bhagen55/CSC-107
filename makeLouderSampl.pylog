@@ -1,0 +1,80 @@
+<file_created time="Fri Feb 12 11:46:10 EST 2016">
+<command_run time="Fri Feb 12 12:10:27 EST 2016">sound = pickAFile()></command_run>
+<command_run time="Fri Feb 12 12:10:40 EST 2016">sound = makeSound(sound)></command_run>
+<command_run time="Fri Feb 12 12:10:44 EST 2016">play(sound)></command_run>
+<command_run time="Fri Feb 12 12:10:53 EST 2016">play(sound)></command_run>
+<command_run time="Fri Feb 12 12:11:02 EST 2016">play(sound)></command_run>
+<command_run time="Fri Feb 12 12:11:09 EST 2016">play(sound)></command_run>
+<command_run time="Fri Feb 12 12:11:15 EST 2016">explore(sound)></command_run>
+<command_run time="Fri Feb 12 12:11:29 EST 2016">sound = makeSound(pickAFile())></command_run>
+<command_run time="Fri Feb 12 12:11:43 EST 2016">play(sound)></command_run>
+<command_run time="Fri Feb 12 12:11:46 EST 2016">sound = makeSound(pickAFile())></command_run>
+<command_run time="Fri Feb 12 12:11:56 EST 2016">play(sound)></command_run>
+<command_run time="Fri Feb 12 12:12:01 EST 2016">explore(sound)></command_run>
+<command_run time="Fri Feb 12 12:12:39 EST 2016">sound = makeSound(pickAFile())></command_run>
+<command_run time="Fri Feb 12 12:13:27 EST 2016">explore(sound)></command_run>
+<menu_button time="Fri Feb 12 12:17:22 EST 2016">getSamples</menu_button>
+<menu_button time="Fri Feb 12 12:17:35 EST 2016">getSampleValue</menu_button>
+<menu_button time="Fri Feb 12 12:17:49 EST 2016">getSampleValueAt</menu_button>
+<menu_button time="Fri Feb 12 12:17:59 EST 2016">getSampleValue</menu_button>
+<menu_button time="Fri Feb 12 12:18:47 EST 2016">getSampleValueAt</menu_button>
+<menu_button time="Fri Feb 12 12:19:32 EST 2016">getSamples</menu_button>
+<menu_button time="Fri Feb 12 12:20:08 EST 2016">getSampleValueAt</menu_button>
+<menu_button time="Fri Feb 12 12:22:11 EST 2016">getSampleObjectAt</menu_button>
+<menu_button time="Fri Feb 12 12:26:11 EST 2016">setSampleValue</menu_button>
+<menu_button time="Fri Feb 12 12:26:41 EST 2016">Save Program</menu_button>
+<file_saved time="Fri Feb 12 12:26:59 EST 2016">C:\Users\bhage\OneDrive\Union Documents\Creative Computing\mediasources\makeLouderSampl.py</file_saved>
+</file_created>
+<menu_button time="Fri Feb 12 12:27:15 EST 2016">Save Program</menu_button>
+<file_saved time="Fri Feb 12 12:27:15 EST 2016">C:\Users\bhage\OneDrive\Union Documents\Creative Computing\mediasources\makeLouderSampl.py</file_saved>
+</file_created>
+<menu_button time="Fri Feb 12 12:27:16 EST 2016">Load Program</menu_button>
+<command_run time="Fri Feb 12 12:27:26 EST 2016">sound = makeSound(pickAFile())></command_run>
+<command_run time="Fri Feb 12 12:27:41 EST 2016">play(sound)></command_run>
+<command_run time="Fri Feb 12 12:27:49 EST 2016">makeLouder(sound)></command_run>
+<menu_button time="Fri Feb 12 12:28:26 EST 2016">Save Program</menu_button>
+<file_saved time="Fri Feb 12 12:28:26 EST 2016">C:\Users\bhage\OneDrive\Union Documents\Creative Computing\mediasources\makeLouderSampl.py</file_saved>
+</file_created>
+<menu_button time="Fri Feb 12 12:28:28 EST 2016">Load Program</menu_button>
+<command_run time="Fri Feb 12 12:28:30 EST 2016">makeLouder(sound)></command_run>
+<menu_button time="Fri Feb 12 12:28:52 EST 2016">getSampleValue</menu_button>
+<menu_button time="Fri Feb 12 12:29:05 EST 2016">Explain getSampleValueAt</menu_button>
+<menu_button time="Fri Feb 12 12:29:17 EST 2016">Load Program</menu_button>
+<file_saved time="Fri Feb 12 12:29:17 EST 2016">C:\Users\bhage\OneDrive\Union Documents\Creative Computing\mediasources\makeLouderSampl.py</file_saved>
+</file_created>
+<command_run time="Fri Feb 12 12:29:19 EST 2016">makeLouder(sound)></command_run>
+<menu_button time="Fri Feb 12 12:29:31 EST 2016">Save Program</menu_button>
+<file_saved time="Fri Feb 12 12:29:31 EST 2016">C:\Users\bhage\OneDrive\Union Documents\Creative Computing\mediasources\makeLouderSampl.py</file_saved>
+</file_created>
+<menu_button time="Fri Feb 12 12:29:32 EST 2016">Load Program</menu_button>
+<command_run time="Fri Feb 12 12:29:33 EST 2016">makeLouder(sound)></command_run>
+<menu_button time="Fri Feb 12 12:30:28 EST 2016">getSampleValue</menu_button>
+<menu_button time="Fri Feb 12 12:30:48 EST 2016">Save Program</menu_button>
+<file_saved time="Fri Feb 12 12:30:48 EST 2016">C:\Users\bhage\OneDrive\Union Documents\Creative Computing\mediasources\makeLouderSampl.py</file_saved>
+</file_created>
+<menu_button time="Fri Feb 12 12:30:49 EST 2016">Load Program</menu_button>
+<command_run time="Fri Feb 12 12:30:50 EST 2016">makeLouder(sound)></command_run>
+<command_run time="Fri Feb 12 12:30:53 EST 2016">play(sound)></command_run>
+<menu_button time="Fri Feb 12 12:31:03 EST 2016">Save Program</menu_button>
+<file_saved time="Fri Feb 12 12:31:03 EST 2016">C:\Users\bhage\OneDrive\Union Documents\Creative Computing\mediasources\makeLouderSampl.py</file_saved>
+</file_created>
+<command_run time="Fri Feb 12 12:31:05 EST 2016">makeLouder(sound)></command_run>
+<command_run time="Fri Feb 12 12:31:07 EST 2016">play(sound)></command_run>
+<command_run time="Fri Feb 12 12:31:09 EST 2016">makeLouder(sound)></command_run>
+<command_run time="Fri Feb 12 12:31:12 EST 2016">play(sound)></command_run>
+<command_run time="Fri Feb 12 12:31:14 EST 2016">makeLouder(sound)></command_run>
+<command_run time="Fri Feb 12 12:31:17 EST 2016">play(sound)></command_run>
+<command_run time="Fri Feb 12 12:33:50 EST 2016">explore(sound)></command_run>
+<command_run time="Fri Feb 12 12:34:00 EST 2016">sound = makeSound(pickAFile())></command_run>
+<command_run time="Fri Feb 12 12:34:06 EST 2016">explore(sound)></command_run>
+<command_run time="Fri Feb 12 12:34:12 EST 2016">makeLouder(sound)></command_run>
+<menu_button time="Fri Feb 12 12:34:17 EST 2016">Load Program</menu_button>
+<command_run time="Fri Feb 12 12:34:19 EST 2016">explore(sound)></command_run>
+<command_run time="Fri Feb 12 12:34:35 EST 2016">makeLouder(sound)></command_run>
+<command_run time="Fri Feb 12 12:34:37 EST 2016">explore(sound)></command_run>
+<command_run time="Fri Feb 12 12:34:40 EST 2016">></command_run>
+<command_run time="Fri Feb 12 12:34:42 EST 2016">explore(sound)></command_run>
+<menu_button time="Fri Feb 12 12:39:42 EST 2016">Undo</menu_button>
+<menu_button time="Fri Feb 12 12:40:00 EST 2016">Save Program</menu_button>
+<file_saved time="Fri Feb 12 12:40:00 EST 2016">C:\Users\bhage\OneDrive\Union Documents\Creative Computing\mediasources\makeLouderSampl.py</file_saved>
+</file_created>

@@ -1,0 +1,55 @@
+<file_created time="Wed Mar 09 11:55:59 EST 2016">
+<menu_button time="Wed Mar 09 11:56:01 EST 2016">Save Program As...</menu_button>
+<file_saved time="Wed Mar 09 11:56:04 EST 2016">C:\Users\bhage\OneDrive\Union Documents\Creative Computing\writingText.py</file_saved>
+</file_created>
+<menu_button time="Wed Mar 09 12:00:36 EST 2016">Save Program</menu_button>
+<file_saved time="Wed Mar 09 12:00:36 EST 2016">C:\Users\bhage\OneDrive\Union Documents\Creative Computing\writingText.py</file_saved>
+</file_created>
+<menu_button time="Wed Mar 09 12:00:37 EST 2016">Load Program</menu_button>
+<command_run time="Wed Mar 09 12:00:43 EST 2016">setMediaPath()></command_run>
+<command_run time="Wed Mar 09 12:00:52 EST 2016">writeText()></command_run>
+<menu_button time="Wed Mar 09 12:04:11 EST 2016">Save Program</menu_button>
+<file_saved time="Wed Mar 09 12:04:11 EST 2016">C:\Users\bhage\OneDrive\Union Documents\Creative Computing\writingText.py</file_saved>
+<file_opened time="Wed Mar 09 12:16:03 EST 2016">C:\Users\bhage\OneDrive\Union Documents\Creative Computing\writingText.py</file_opened>
+<menu_button time="Wed Mar 09 12:18:23 EST 2016">Save Program</menu_button>
+<file_saved time="Wed Mar 09 12:18:23 EST 2016">C:\Users\bhage\OneDrive\Union Documents\Creative Computing\writingText.py</file_saved>
+</file_created>
+<menu_button time="Wed Mar 09 12:19:40 EST 2016">Save Program</menu_button>
+<file_saved time="Wed Mar 09 12:19:40 EST 2016">C:\Users\bhage\OneDrive\Union Documents\Creative Computing\writingText.py</file_saved>
+</file_created>
+<menu_button time="Wed Mar 09 12:23:11 EST 2016">Save Program</menu_button>
+<file_saved time="Wed Mar 09 12:23:11 EST 2016">C:\Users\bhage\OneDrive\Union Documents\Creative Computing\writingText.py</file_saved>
+</file_created>
+<menu_button time="Wed Mar 09 12:23:12 EST 2016">Load Program</menu_button>
+<menu_button time="Wed Mar 09 12:23:16 EST 2016">Load Program</menu_button>
+<file_saved time="Wed Mar 09 12:23:16 EST 2016">C:\Users\bhage\OneDrive\Union Documents\Creative Computing\writingText.py</file_saved>
+</file_created>
+<menu_button time="Wed Mar 09 12:23:18 EST 2016">Load Program</menu_button>
+<file_saved time="Wed Mar 09 12:23:18 EST 2016">C:\Users\bhage\OneDrive\Union Documents\Creative Computing\writingText.py</file_saved>
+</file_created>
+<menu_button time="Wed Mar 09 12:23:42 EST 2016">Save Program</menu_button>
+<file_saved time="Wed Mar 09 12:23:42 EST 2016">C:\Users\bhage\OneDrive\Union Documents\Creative Computing\writingText.py</file_saved>
+</file_created>
+<command_run time="Wed Mar 09 12:25:17 EST 2016">starwars = ['star wars','scify','129','10']></command_run>
+<command_run time="Wed Mar 09 12:25:43 EST 2016">alvinTwo = ['alvin and the chipmunks','crap','99999','-1']></command_run>
+<command_run time="Wed Mar 09 12:25:55 EST 2016">movies = [starwars, alvinTwo]></command_run>
+<command_run time="Wed Mar 09 12:26:03 EST 2016">findMovie(movies)></command_run>
+<menu_button time="Wed Mar 09 12:26:14 EST 2016">Save Program</menu_button>
+<file_saved time="Wed Mar 09 12:26:14 EST 2016">C:\Users\bhage\OneDrive\Union Documents\Creative Computing\writingText.py</file_saved>
+</file_created>
+<menu_button time="Wed Mar 09 12:26:14 EST 2016">Load Program</menu_button>
+<command_run time="Wed Mar 09 12:26:16 EST 2016">findMovie(movies)></command_run>
+<command_run time="Wed Mar 09 12:26:34 EST 2016">print movies></command_run>
+<menu_button time="Wed Mar 09 12:27:27 EST 2016">Save Program</menu_button>
+<file_saved time="Wed Mar 09 12:27:27 EST 2016">C:\Users\bhage\OneDrive\Union Documents\Creative Computing\writingText.py</file_saved>
+</file_created>
+<menu_button time="Wed Mar 09 12:28:49 EST 2016">Save Program</menu_button>
+<file_saved time="Wed Mar 09 12:28:49 EST 2016">C:\Users\bhage\OneDrive\Union Documents\Creative Computing\writingText.py</file_saved>
+</file_created>
+<menu_button time="Wed Mar 09 12:31:45 EST 2016">Undo</menu_button>
+<menu_button time="Wed Mar 09 12:32:09 EST 2016">Save Program</menu_button>
+<file_saved time="Wed Mar 09 12:32:09 EST 2016">C:\Users\bhage\OneDrive\Union Documents\Creative Computing\writingText.py</file_saved>
+</file_created>
+<menu_button time="Wed Mar 09 12:33:29 EST 2016">Save Program</menu_button>
+<file_saved time="Wed Mar 09 12:33:29 EST 2016">C:\Users\bhage\OneDrive\Union Documents\Creative Computing\writingText.py</file_saved>
+</file_created>

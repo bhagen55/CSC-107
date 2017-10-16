@@ -1,0 +1,226 @@
+<file_created time="Tue Mar 08 11:01:01 EST 2016">
+<menu_button time="Tue Mar 08 11:02:31 EST 2016">Save Program</menu_button>
+<file_saved time="Tue Mar 08 11:02:53 EST 2016">C:\Users\bhage\OneDrive\Union Documents\Creative Computing\CSC107Lab9</file_saved>
+</file_created>
+<menu_button time="Tue Mar 08 11:05:54 EST 2016">Save Program</menu_button>
+<file_saved time="Tue Mar 08 11:05:54 EST 2016">C:\Users\bhage\OneDrive\Union Documents\Creative Computing\CSC107Lab9</file_saved>
+</file_created>
+<menu_button time="Tue Mar 08 11:05:55 EST 2016">Load Program</menu_button>
+<command_run time="Tue Mar 08 11:05:58 EST 2016">footy()></command_run>
+<menu_button time="Tue Mar 08 11:06:02 EST 2016">Save Program</menu_button>
+<file_saved time="Tue Mar 08 11:06:02 EST 2016">C:\Users\bhage\OneDrive\Union Documents\Creative Computing\CSC107Lab9</file_saved>
+</file_created>
+<menu_button time="Tue Mar 08 11:06:03 EST 2016">Load Program</menu_button>
+<command_run time="Tue Mar 08 11:06:04 EST 2016">footy()></command_run>
+<menu_button time="Tue Mar 08 11:09:28 EST 2016">Save Program</menu_button>
+<file_saved time="Tue Mar 08 11:09:28 EST 2016">C:\Users\bhage\OneDrive\Union Documents\Creative Computing\CSC107Lab9</file_saved>
+</file_created>
+<menu_button time="Tue Mar 08 11:09:28 EST 2016">Load Program</menu_button>
+<command_run time="Tue Mar 08 11:09:29 EST 2016">footy()></command_run>
+<menu_button time="Tue Mar 08 11:09:36 EST 2016">Save Program</menu_button>
+<file_saved time="Tue Mar 08 11:09:36 EST 2016">C:\Users\bhage\OneDrive\Union Documents\Creative Computing\CSC107Lab9</file_saved>
+</file_created>
+<menu_button time="Tue Mar 08 11:09:37 EST 2016">Load Program</menu_button>
+<command_run time="Tue Mar 08 11:09:38 EST 2016">footy()></command_run>
+<menu_button time="Tue Mar 08 11:09:44 EST 2016">Save Program</menu_button>
+<file_saved time="Tue Mar 08 11:09:44 EST 2016">C:\Users\bhage\OneDrive\Union Documents\Creative Computing\CSC107Lab9</file_saved>
+</file_created>
+<menu_button time="Tue Mar 08 11:09:45 EST 2016">Load Program</menu_button>
+<command_run time="Tue Mar 08 11:09:46 EST 2016">footy()></command_run>
+<menu_button time="Tue Mar 08 11:09:53 EST 2016">Save Program</menu_button>
+<file_saved time="Tue Mar 08 11:09:53 EST 2016">C:\Users\bhage\OneDrive\Union Documents\Creative Computing\CSC107Lab9</file_saved>
+</file_created>
+<menu_button time="Tue Mar 08 11:09:53 EST 2016">Load Program</menu_button>
+<command_run time="Tue Mar 08 11:09:54 EST 2016">footy()></command_run>
+<command_run time="Tue Mar 08 11:19:40 EST 2016">'foxfox'.rfind('x', 3, 0)></command_run>
+<command_run time="Tue Mar 08 11:19:55 EST 2016">'foxfox'.rfind('x', 0, 3)></command_run>
+<command_run time="Tue Mar 08 11:20:10 EST 2016">'foxfox'.rfind('x', 3, 1)></command_run>
+<menu_button time="Tue Mar 08 11:23:52 EST 2016">Save Program</menu_button>
+<file_saved time="Tue Mar 08 11:23:52 EST 2016">C:\Users\bhage\OneDrive\Union Documents\Creative Computing\CSC107Lab9</file_saved>
+</file_created>
+<menu_button time="Tue Mar 08 11:23:53 EST 2016">Load Program</menu_button>
+<command_run time="Tue Mar 08 11:24:04 EST 2016">findSequence('tttc')></command_run>
+<menu_button time="Tue Mar 08 11:24:12 EST 2016">Save Program</menu_button>
+<file_saved time="Tue Mar 08 11:24:12 EST 2016">C:\Users\bhage\OneDrive\Union Documents\Creative Computing\CSC107Lab9</file_saved>
+</file_created>
+<menu_button time="Tue Mar 08 11:24:36 EST 2016">Save Program</menu_button>
+<file_saved time="Tue Mar 08 11:24:36 EST 2016">C:\Users\bhage\OneDrive\Union Documents\Creative Computing\CSC107Lab9</file_saved>
+</file_created>
+<menu_button time="Tue Mar 08 11:24:37 EST 2016">Load Program</menu_button>
+<menu_button time="Tue Mar 08 11:24:45 EST 2016">Save Program</menu_button>
+<file_saved time="Tue Mar 08 11:24:45 EST 2016">C:\Users\bhage\OneDrive\Union Documents\Creative Computing\CSC107Lab9</file_saved>
+</file_created>
+<menu_button time="Tue Mar 08 11:24:46 EST 2016">Load Program</menu_button>
+<command_run time="Tue Mar 08 11:24:46 EST 2016">findSequence('tttc')></command_run>
+<menu_button time="Tue Mar 08 11:25:41 EST 2016">Save Program</menu_button>
+<file_saved time="Tue Mar 08 11:25:41 EST 2016">C:\Users\bhage\OneDrive\Union Documents\Creative Computing\CSC107Lab9</file_saved>
+</file_created>
+<command_run time="Tue Mar 08 11:27:36 EST 2016">'foxfox'.rfind('x')></command_run>
+<command_run time="Tue Mar 08 11:29:51 EST 2016">'testingthismethod'.rfind('t',10:0)></command_run>
+<command_run time="Tue Mar 08 11:29:54 EST 2016">'testingthismethod'.rfind('t',10,0)></command_run>
+<command_run time="Tue Mar 08 11:31:20 EST 2016">'testingthismethod'.rfind('t',10,1)></command_run>
+<command_run time="Tue Mar 08 11:31:31 EST 2016">'testingthismethod'.rfind('t',10)></command_run>
+<command_run time="Tue Mar 08 11:31:36 EST 2016">'testingthismethod'.rfind('t',0,10)></command_run>
+<command_run time="Tue Mar 08 11:31:41 EST 2016">'testingthismethod'.rfind('t',10,0)></command_run>
+<command_run time="Tue Mar 08 11:31:47 EST 2016">'testingthismethod'.find('t',10,0)></command_run>
+<command_run time="Tue Mar 08 11:33:21 EST 2016">'testingthismethod'.index('t',10,0)></command_run>
+<command_run time="Tue Mar 08 11:33:34 EST 2016">'testingthismethod'.index('t',10)></command_run>
+<command_run time="Tue Mar 08 11:33:38 EST 2016">'testingthismethod'.index('t',10,1)></command_run>
+<menu_button time="Tue Mar 08 11:38:08 EST 2016">Save Program</menu_button>
+<file_saved time="Tue Mar 08 11:38:08 EST 2016">C:\Users\bhage\OneDrive\Union Documents\Creative Computing\CSC107Lab9</file_saved>
+</file_created>
+<menu_button time="Tue Mar 08 11:40:09 EST 2016">Save Program</menu_button>
+<file_saved time="Tue Mar 08 11:40:09 EST 2016">C:\Users\bhage\OneDrive\Union Documents\Creative Computing\CSC107Lab9</file_saved>
+</file_created>
+<menu_button time="Tue Mar 08 11:40:10 EST 2016">Load Program</menu_button>
+<command_run time="Tue Mar 08 11:40:17 EST 2016">findSequence(ttt)></command_run>
+<command_run time="Tue Mar 08 11:40:22 EST 2016">findSequence('ttt')></command_run>
+<menu_button time="Tue Mar 08 11:40:33 EST 2016">Load Program</menu_button>
+<command_run time="Tue Mar 08 11:40:35 EST 2016">findSequence('ttt')></command_run>
+<menu_button time="Tue Mar 08 11:40:55 EST 2016">Save Program</menu_button>
+<file_saved time="Tue Mar 08 11:40:55 EST 2016">C:\Users\bhage\OneDrive\Union Documents\Creative Computing\CSC107Lab9</file_saved>
+</file_created>
+<menu_button time="Tue Mar 08 11:40:56 EST 2016">Load Program</menu_button>
+<command_run time="Tue Mar 08 11:40:57 EST 2016">findSequence('ttt')></command_run>
+<menu_button time="Tue Mar 08 11:41:06 EST 2016">Load Program</menu_button>
+<file_saved time="Tue Mar 08 11:41:06 EST 2016">C:\Users\bhage\OneDrive\Union Documents\Creative Computing\CSC107Lab9</file_saved>
+</file_created>
+<command_run time="Tue Mar 08 11:41:07 EST 2016">findSequence('ttt')></command_run>
+<menu_button time="Tue Mar 08 11:41:30 EST 2016">Save Program</menu_button>
+<file_saved time="Tue Mar 08 11:41:30 EST 2016">C:\Users\bhage\OneDrive\Union Documents\Creative Computing\CSC107Lab9</file_saved>
+</file_created>
+<menu_button time="Tue Mar 08 11:41:30 EST 2016">Load Program</menu_button>
+<command_run time="Tue Mar 08 11:41:31 EST 2016">findSequence('ttt')></command_run>
+<menu_button time="Tue Mar 08 11:41:57 EST 2016">Load Program</menu_button>
+<file_saved time="Tue Mar 08 11:41:57 EST 2016">C:\Users\bhage\OneDrive\Union Documents\Creative Computing\CSC107Lab9</file_saved>
+</file_created>
+<menu_button time="Tue Mar 08 11:42:06 EST 2016">Save Program</menu_button>
+<file_saved time="Tue Mar 08 11:42:06 EST 2016">C:\Users\bhage\OneDrive\Union Documents\Creative Computing\CSC107Lab9</file_saved>
+</file_created>
+<menu_button time="Tue Mar 08 11:42:07 EST 2016">Load Program</menu_button>
+<command_run time="Tue Mar 08 11:42:08 EST 2016">findSequence('ttt')></command_run>
+<menu_button time="Tue Mar 08 11:42:23 EST 2016">Save Program</menu_button>
+<file_saved time="Tue Mar 08 11:42:23 EST 2016">C:\Users\bhage\OneDrive\Union Documents\Creative Computing\CSC107Lab9</file_saved>
+</file_created>
+<menu_button time="Tue Mar 08 11:42:24 EST 2016">Load Program</menu_button>
+<command_run time="Tue Mar 08 11:42:25 EST 2016">findSequence('ttt')></command_run>
+<command_run time="Tue Mar 08 11:42:35 EST 2016">findSequence('abc')></command_run>
+<menu_button time="Tue Mar 08 11:46:52 EST 2016">Load Program</menu_button>
+<file_saved time="Tue Mar 08 11:46:52 EST 2016">C:\Users\bhage\OneDrive\Union Documents\Creative Computing\CSC107Lab9</file_saved>
+</file_created>
+<menu_button time="Tue Mar 08 11:48:30 EST 2016">Save Program</menu_button>
+<file_saved time="Tue Mar 08 11:48:30 EST 2016">C:\Users\bhage\OneDrive\Union Documents\Creative Computing\CSC107Lab9</file_saved>
+</file_created>
+<menu_button time="Tue Mar 08 11:48:39 EST 2016">Save Program</menu_button>
+<file_saved time="Tue Mar 08 11:48:39 EST 2016">C:\Users\bhage\OneDrive\Union Documents\Creative Computing\CSC107Lab9</file_saved>
+</file_created>
+<menu_button time="Tue Mar 08 11:48:57 EST 2016">Save Program</menu_button>
+<file_saved time="Tue Mar 08 11:48:57 EST 2016">C:\Users\bhage\OneDrive\Union Documents\Creative Computing\CSC107Lab9</file_saved>
+</file_created>
+<menu_button time="Tue Mar 08 11:49:34 EST 2016">Save Program</menu_button>
+<file_saved time="Tue Mar 08 11:49:34 EST 2016">C:\Users\bhage\OneDrive\Union Documents\Creative Computing\CSC107Lab9</file_saved>
+</file_created>
+<menu_button time="Tue Mar 08 11:50:03 EST 2016">Save Program</menu_button>
+<file_saved time="Tue Mar 08 11:50:03 EST 2016">C:\Users\bhage\OneDrive\Union Documents\Creative Computing\CSC107Lab9</file_saved>
+</file_created>
+<menu_button time="Tue Mar 08 11:50:28 EST 2016">Save Program</menu_button>
+<file_saved time="Tue Mar 08 11:50:28 EST 2016">C:\Users\bhage\OneDrive\Union Documents\Creative Computing\CSC107Lab9</file_saved>
+</file_created>
+<menu_button time="Tue Mar 08 11:50:29 EST 2016">Load Program</menu_button>
+<command_run time="Tue Mar 08 11:50:34 EST 2016">atlantaTemp()></command_run>
+<menu_button time="Tue Mar 08 11:50:53 EST 2016">Save Program</menu_button>
+<file_saved time="Tue Mar 08 11:50:53 EST 2016">C:\Users\bhage\OneDrive\Union Documents\Creative Computing\CSC107Lab9</file_saved>
+</file_created>
+<menu_button time="Tue Mar 08 11:50:54 EST 2016">Load Program</menu_button>
+<command_run time="Tue Mar 08 11:50:55 EST 2016">atlantaTemp()></command_run>
+<menu_button time="Tue Mar 08 11:52:08 EST 2016">Save Program</menu_button>
+<file_saved time="Tue Mar 08 11:52:08 EST 2016">C:\Users\bhage\OneDrive\Union Documents\Creative Computing\CSC107Lab9</file_saved>
+</file_created>
+<menu_button time="Tue Mar 08 11:52:10 EST 2016">Load Program</menu_button>
+<command_run time="Tue Mar 08 11:52:11 EST 2016">atlantaTemp()></command_run>
+<menu_button time="Tue Mar 08 11:52:22 EST 2016">Load Program</menu_button>
+<command_run time="Tue Mar 08 11:52:23 EST 2016">atlantaTemp()></command_run>
+<menu_button time="Tue Mar 08 11:52:56 EST 2016">Undo</menu_button>
+<menu_button time="Tue Mar 08 11:53:09 EST 2016">Save Program</menu_button>
+<file_saved time="Tue Mar 08 11:53:09 EST 2016">C:\Users\bhage\OneDrive\Union Documents\Creative Computing\CSC107Lab9</file_saved>
+</file_created>
+<menu_button time="Tue Mar 08 11:53:54 EST 2016">Save Program</menu_button>
+<file_saved time="Tue Mar 08 11:53:54 EST 2016">C:\Users\bhage\OneDrive\Union Documents\Creative Computing\CSC107Lab9</file_saved>
+</file_created>
+<menu_button time="Tue Mar 08 11:53:55 EST 2016">Load Program</menu_button>
+<menu_button time="Tue Mar 08 11:54:07 EST 2016">Save Program</menu_button>
+<file_saved time="Tue Mar 08 11:54:07 EST 2016">C:\Users\bhage\OneDrive\Union Documents\Creative Computing\CSC107Lab9</file_saved>
+</file_created>
+<menu_button time="Tue Mar 08 11:54:08 EST 2016">Load Program</menu_button>
+<command_run time="Tue Mar 08 11:54:18 EST 2016">atlantaTemp()></command_run>
+<menu_button time="Tue Mar 08 11:54:20 EST 2016">Load Program</menu_button>
+<command_run time="Tue Mar 08 11:54:21 EST 2016">atlantaTemp()></command_run>
+<menu_button time="Tue Mar 08 11:54:31 EST 2016">Load Program</menu_button>
+<command_run time="Tue Mar 08 11:54:38 EST 2016">atlantaTempLocal()></command_run>
+<menu_button time="Tue Mar 08 11:54:43 EST 2016">Save Program</menu_button>
+<file_saved time="Tue Mar 08 11:54:43 EST 2016">C:\Users\bhage\OneDrive\Union Documents\Creative Computing\CSC107Lab9</file_saved>
+</file_created>
+<menu_button time="Tue Mar 08 11:54:43 EST 2016">Load Program</menu_button>
+<command_run time="Tue Mar 08 11:54:44 EST 2016">atlantaTempLocal()></command_run>
+<menu_button time="Tue Mar 08 11:59:37 EST 2016">Save Program</menu_button>
+<file_saved time="Tue Mar 08 11:59:37 EST 2016">C:\Users\bhage\OneDrive\Union Documents\Creative Computing\CSC107Lab9</file_saved>
+</file_created>
+<menu_button time="Tue Mar 08 12:01:33 EST 2016">Save Program</menu_button>
+<file_saved time="Tue Mar 08 12:01:33 EST 2016">C:\Users\bhage\OneDrive\Union Documents\Creative Computing\CSC107Lab9</file_saved>
+</file_created>
+<menu_button time="Tue Mar 08 12:01:34 EST 2016">Load Program</menu_button>
+<command_run time="Tue Mar 08 12:01:39 EST 2016">atlantaTempLive()></command_run>
+<menu_button time="Tue Mar 08 12:02:02 EST 2016">Save Program</menu_button>
+<file_saved time="Tue Mar 08 12:02:02 EST 2016">C:\Users\bhage\OneDrive\Union Documents\Creative Computing\CSC107Lab9</file_saved>
+</file_created>
+<menu_button time="Tue Mar 08 12:02:04 EST 2016">Load Program</menu_button>
+<command_run time="Tue Mar 08 12:02:04 EST 2016">atlantaTempLive()></command_run>
+<menu_button time="Tue Mar 08 12:02:44 EST 2016">Save Program</menu_button>
+<file_saved time="Tue Mar 08 12:02:44 EST 2016">C:\Users\bhage\OneDrive\Union Documents\Creative Computing\CSC107Lab9</file_saved>
+</file_created>
+<menu_button time="Tue Mar 08 12:02:44 EST 2016">Load Program</menu_button>
+<command_run time="Tue Mar 08 12:02:45 EST 2016">atlantaTempLive()></command_run>
+<menu_button time="Tue Mar 08 12:02:58 EST 2016">Save Program</menu_button>
+<file_saved time="Tue Mar 08 12:02:58 EST 2016">C:\Users\bhage\OneDrive\Union Documents\Creative Computing\CSC107Lab9</file_saved>
+</file_created>
+<menu_button time="Tue Mar 08 12:02:59 EST 2016">Load Program</menu_button>
+<command_run time="Tue Mar 08 12:03:00 EST 2016">atlantaTempLive()></command_run>
+<menu_button time="Tue Mar 08 12:03:18 EST 2016">Save Program</menu_button>
+<file_saved time="Tue Mar 08 12:03:18 EST 2016">C:\Users\bhage\OneDrive\Union Documents\Creative Computing\CSC107Lab9</file_saved>
+</file_created>
+<menu_button time="Tue Mar 08 12:03:19 EST 2016">Load Program</menu_button>
+<command_run time="Tue Mar 08 12:03:19 EST 2016">atlantaTempLive()></command_run>
+<menu_button time="Tue Mar 08 12:03:33 EST 2016">Save Program</menu_button>
+<file_saved time="Tue Mar 08 12:03:33 EST 2016">C:\Users\bhage\OneDrive\Union Documents\Creative Computing\CSC107Lab9</file_saved>
+</file_created>
+<menu_button time="Tue Mar 08 12:03:34 EST 2016">Load Program</menu_button>
+<command_run time="Tue Mar 08 12:03:35 EST 2016">atlantaTempLive()></command_run>
+<command_run time="Tue Mar 08 12:03:39 EST 2016">atlantaTempLocal()></command_run>
+<menu_button time="Tue Mar 08 12:03:51 EST 2016">Save Program</menu_button>
+<file_saved time="Tue Mar 08 12:03:51 EST 2016">C:\Users\bhage\OneDrive\Union Documents\Creative Computing\CSC107Lab9</file_saved>
+</file_created>
+<menu_button time="Tue Mar 08 12:06:20 EST 2016">Save Program</menu_button>
+<file_saved time="Tue Mar 08 12:06:20 EST 2016">C:\Users\bhage\OneDrive\Union Documents\Creative Computing\CSC107Lab9</file_saved>
+</file_created>
+<menu_button time="Tue Mar 08 12:06:23 EST 2016">Save Program</menu_button>
+<file_saved time="Tue Mar 08 12:06:23 EST 2016">C:\Users\bhage\OneDrive\Union Documents\Creative Computing\CSC107Lab9</file_saved>
+</file_created>
+<menu_button time="Tue Mar 08 12:06:33 EST 2016">Undo</menu_button>
+<menu_button time="Tue Mar 08 12:06:33 EST 2016">Undo</menu_button>
+<menu_button time="Tue Mar 08 12:06:33 EST 2016">Undo</menu_button>
+<menu_button time="Tue Mar 08 12:06:33 EST 2016">Undo</menu_button>
+<menu_button time="Tue Mar 08 12:06:33 EST 2016">Undo</menu_button>
+<menu_button time="Tue Mar 08 12:06:34 EST 2016">Undo</menu_button>
+<menu_button time="Tue Mar 08 12:06:34 EST 2016">Undo</menu_button>
+<menu_button time="Tue Mar 08 12:06:34 EST 2016">Undo</menu_button>
+<menu_button time="Tue Mar 08 12:06:34 EST 2016">Undo</menu_button>
+<menu_button time="Tue Mar 08 12:06:35 EST 2016">Undo</menu_button>
+<menu_button time="Tue Mar 08 12:07:07 EST 2016">Save Program</menu_button>
+<file_saved time="Tue Mar 08 12:07:07 EST 2016">C:\Users\bhage\OneDrive\Union Documents\Creative Computing\CSC107Lab9</file_saved>
+</file_created>
+<menu_button time="Tue Mar 08 12:07:08 EST 2016">Save Program</menu_button>
+<file_saved time="Tue Mar 08 12:07:08 EST 2016">C:\Users\bhage\OneDrive\Union Documents\Creative Computing\CSC107Lab9</file_saved>
+</file_created>
+<menu_button time="Tue Mar 08 12:07:12 EST 2016">Save Program</menu_button>
+<file_saved time="Tue Mar 08 12:07:12 EST 2016">C:\Users\bhage\OneDrive\Union Documents\Creative Computing\CSC107Lab9</file_saved>
+</file_created>
